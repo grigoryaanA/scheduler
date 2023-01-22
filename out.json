@@ -1,0 +1,60 @@
+{
+    "John Doe": {
+        "weekday": {
+            "Class 1": {
+                "subject": "Physics",
+                "start_time": 8,
+                "end_time": 16,
+                "range_of_maximum_number_of_weekly_lessons": 8
+            },
+            "Class 2": {
+                "subject": "Mathematics",
+                "start_time": 9,
+                "end_time": 14,
+                "range_of_maximum_number_of_weekly_lessons": 5
+            },
+            "Class 3": {
+                "subject": "Physics",
+                "start_time": 10,
+                "end_time": 11,
+                "range_of_maximum_number_of_weekly_lessons": 1
+            },
+            "Class 4": {
+                "subject": "Physics",
+                "start_time": 11,
+                "end_time": 19,
+                "range_of_maximum_number_of_weekly_lessons": 8
+            },
+            "Class 5": {
+                "subject": "Physics",
+                "start_time": 12,
+                "end_time": 20,
+                "range_of_maximum_number_of_weekly_lessons": 8
+            },
+            "Class 6": {
+                "subject": "Physics",
+                "start_time": 13,
+                "end_time": 21,
+                "range_of_maximum_number_of_weekly_lessons": 8
+            }
+        },
+        "free_time": 71
+    },
+    "Jane Smith": {
+        "weekday": {
+            "Class 2": {
+                "subject": "Chemistry",
+                "start_time": 8,
+                "end_time": 13,
+                "range_of_maximum_number_of_weekly_lessons": 5
+            },
+            "Class 3": {
+                "subject": "Chemistry",
+                "start_time": 9,
+                "end_time": 10,
+                "range_of_maximum_number_of_weekly_lessons": 1
+            }
+        },
+        "free_time": 11
+    }
+}
